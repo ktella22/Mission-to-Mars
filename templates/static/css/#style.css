@@ -1,0 +1,10 @@
+
+.container-fluid {
+    border-style: solid;
+    border-color: black;
+}
+
+.jumbotron {
+    background-image: url("images/moon.jpg");
+    background-size: 100% 100%;
+}
